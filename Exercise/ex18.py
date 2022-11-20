@@ -3,7 +3,7 @@ def print_two(*args):
     print(args)
     print(type(args))
     print(f"arg1: {arg1} | agr2: {arg2}")
-
+    
 def print_two_again(arg1, arg2):
     print(f"arg1: {arg1} | agr2: {arg2}")
 
